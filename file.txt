@@ -2,3 +2,9 @@ one
 three
 stash
 test
+w
+a
+a
+ad
+d
+
